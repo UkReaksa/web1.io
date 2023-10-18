@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(15, 15, 14);
+    color: antiquewhite;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_640.jpg);
+}
+h1{
+    font-size: 40px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 10%;
+    margin: 10px;
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
